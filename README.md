@@ -29,8 +29,18 @@
 - [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment2/Prompt_optimize.ipynb)
 - [Medium Article](https://medium.com/@neelearning93/an-introduction-to-interactive-prompt-optimization-fa3ad9218f7)
 
+##### 2c
+- Database of prompts with a UI to add/search prompts based on type of prompt (template, instruction etc)
+- Uses Flask and Pinecone
+- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment2/2c)
+
 ### Assignment 3
 
 ##### 3a
 - NanoGPT code in Jax, TensorFlow and PyTorch
 - [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment3/3a)
+- [Medium Article](https://medium.com/@neelearning93/building-and-implementing-nanogpt-e2e2e653344e)
+
+##### 3b
+- An implementation of "textbooks are all you need"
+- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment3/3b/textbooks-are-all-you-need.ipynb)
