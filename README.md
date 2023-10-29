@@ -44,3 +44,9 @@
 ##### 3b
 - An implementation of "textbooks are all you need"
 - [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment3/3b/textbooks-are-all-you-need.ipynb)
+
+### Assignment 4
+
+##### 4a
+- Simple Python agent that performs tasks using tools
+- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment4/a)
