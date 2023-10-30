@@ -49,10 +49,18 @@
 
 ##### 4a
 - Simple Python agent that performs tasks using tools
-- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment4/4a)
+- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment4/simple_agent.py)
 - [Video](https://drive.google.com/file/d/1jbZVzP14IR_YJCqs4hOUt7wZJ4-Wte5U/view?usp=sharing)
 
 ##### 4b
 - Auto agent task
 - Code has been cloned from this [GitHub Repo](https://github.com/Link-AGI/AutoAgents)
 - [Video](https://drive.google.com/file/d/1Mx-Lifq91YyYbATHY4HwkKSejzXNNprn/view?usp=drive_link)
+
+##### 4c
+- LoRa for finetuning
+- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment4/Lora_Llama2.ipynb)
+
+##### 4d
+- QLoRa for finetuning
+- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment4/QLora_Llama2.ipynb)
