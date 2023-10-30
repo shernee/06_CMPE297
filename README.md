@@ -72,3 +72,7 @@
 ##### 4f
 - Mistral with LangChain
 - [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment4/Mistral_with_LangChain.ipynb)
+
+##### 4g
+- LLM quantization
+- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment4/LLM_Quantization.ipynb)
