@@ -76,3 +76,9 @@
 ##### 4g
 - LLM quantization
 - [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment4/LLM_Quantization.ipynb)
+
+### Assignment 5
+
+##### 5a
+- Prompt engineering techniques
+- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment5/Prompt_Engineering_Techniques.ipynb)
