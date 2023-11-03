@@ -86,3 +86,7 @@
 ##### 5d
 - PaLM2 api
 - [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment5/PaLM2.ipynb)
+
+##### 5e
+- Function-calls API in OpenAI
+- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment5/Function_Calls_OpenAI.ipynb)
