@@ -90,3 +90,7 @@
 ##### 5e
 - Function-calls API in OpenAI
 - [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment5/Function_Calls_OpenAI.ipynb)
+
+##### 5f
+- System prompts usecase in OpenAI
+- [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment5/System_Prompts.ipynb)
