@@ -83,6 +83,10 @@
 - Prompt engineering techniques
 - [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment5/Prompt_Engineering_Techniques.ipynb)
 
+##### 5c
+- Prompts for different industries
+- [File](https://github.com/shernee/06_CMPE297/blob/main/Assignment5/Prompts.pdf)
+
 ##### 5d
 - PaLM2 api
 - [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment5/PaLM2.ipynb)
