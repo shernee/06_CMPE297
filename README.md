@@ -99,6 +99,11 @@
 - System prompts usecase in OpenAI
 - [Code](https://github.com/shernee/06_CMPE297/blob/main/Assignment5/System_Prompts.ipynb)
 
+### Assignment 6
+
+##### 6a
+- [Video](https://drive.google.com/file/d/1miiAjvydd2zemUpsuvajKS4FSCPEbyp_/view?usp=drive_link)
+
 ### Short Story
 - [Slide deck](https://www.slideshare.net/NeethaSherra1/survey-on-factuality-in-llmspptx)
 - [Video presentation](https://drive.google.com/file/d/1Hl7cVkY-01TlN2fogmdHOqYQ6q0UMwXf/view?usp=drive_link)
